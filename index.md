@@ -379,7 +379,6 @@ to include the relevant installation instrucctions.
 {% comment %}
 These are the installation instructions for the tools used
 during the workshop.
-{% endcomment %}
 
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
@@ -392,3 +391,7 @@ Please check the "Setup" page of
 [the lesson site]({{ site.lesson_site }}) for instructions to follow
 to obtain the software and data you will need to follow the lesson.
 {% endif %}
+
+{% endcomment %}
+
+{% include install_instructions/r %}
