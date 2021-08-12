@@ -72,7 +72,7 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-This workshop is designed as a general introduction to using R/RStudio for data management, analysis, visualization, and reporting. No knowledge of the tools presented here is necessary for success. While examples will be general, discussions will focus on the utility of this program for epidemiology and other health research topics. More information about this workshop, including supplementary files and documents, is available on the <a https://tennessee.sharepoint.com/sites/health/CMO/OIA/ANL/SitePages/The-R-Users-Group.aspx?csf=1&web=1&e=Utc6gG&cid=1fc3de8b-bb36-425a-af4f-0b1098f87a5b>RATPack Sharepoint page </a>. 
+This workshop is designed as a general introduction to using R/RStudio for data management, analysis, visualization, and reporting. No knowledge of the tools presented here is necessary for success. While examples will be general, discussions will focus on the utility of this program for epidemiology and other health research topics. More information about this workshop, including supplementary files and documents, is available on the <a href = "https://tennessee.sharepoint.com/sites/health/CMO/OIA/ANL/SitePages/The-R-Users-Group.aspx?csf=1&web=1&e=Utc6gG&cid=1fc3de8b-bb36-425a-af4f-0b1098f87a5b">RATPack Sharepoint page </a>. 
 {% comment %}
 AUDIENCE
 
