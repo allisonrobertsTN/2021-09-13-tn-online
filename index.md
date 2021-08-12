@@ -394,4 +394,4 @@ to obtain the software and data you will need to follow the lesson.
 
 {% endcomment %}
 
-{% include install_instructions/r %}
+{% include install_instructions/r.html %}
