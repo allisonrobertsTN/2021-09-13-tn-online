@@ -79,7 +79,7 @@ AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
-This workshop is designed for Tennessee State Department of Health employees from any department. Participants are encouraged to join the R Alliance of Tennessee (RAT) Pack after completing the workshop (if they haven't already!)
+This workshop is designed for Tennessee State Department of Health employees from any division/office. Participants are encouraged to join the R Alliance of Tennessee (RAT) Pack after completing the workshop (if they haven't already!)
 
 {% comment %}
 LOCATION
